@@ -1,0 +1,10 @@
+{
+  "url": "http://hl7.org/fhir/us/mcode/ImplementationGuide/hl7.fhir.us.mcode",
+  "name": "HL7FHIRImplementationGuideminimalCommonOncologyDataElementsmCODERelease1USRealmSTU1",
+  "package-id": "hl7.fhir.us.mcode",
+  "ig-ver": "1.0.1",
+  "date": "Mon, 24 Aug, 2020 12:54:42 -0400",
+  "exception": "Attempt to use Terminology server when no Terminology server is available",
+  "version": "4.0.1",
+  "tool": "4.5.0 (3)"
+}
